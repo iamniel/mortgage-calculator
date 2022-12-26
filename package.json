@@ -4,6 +4,7 @@
     "description": "Calculates the Monthly Mortgage Price, Down Payment, Total Number of Payments and Pricipal Amount.",
     "main": "calculator.js",
     "author": "iamniel",
+    "repository": "iamniel/mortgage-calculator",
     "license": "MIT",
     "keywords": [
         "mortgage",
