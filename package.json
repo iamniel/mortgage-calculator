@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "Calculates the Monthly Mortgage Price, Down Payment, Total Number of Payments and Pricipal Amount.",
     "main": "calculator.js",
-    "author": "Nanda",
-    "license": "",
+    "author": "iamniel",
+    "license": "MIT",
     "keywords": [
         "mortgage",
         "downpayment",
